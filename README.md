@@ -6,7 +6,7 @@ Customer lifetime value analysis is used to estimate the total value of customer
 
 By analyzing customer lifetime value, companies can identify the most effective marketing channels and campaigns for acquiring high-value customers, as well as develop targeted retention strategies to keep those customers engaged and loyal.
 
-For the Customer Lifetime Value analysis task, we need a dataset based on customers’ relationships with the business. I found an ideal dataset for this task. You can download the dataset from [here](https://github.com/heyamay/Customer-Lifetime-Value-Analysis/blob/main/customer_acquisition_data.csv))
+For the Customer Lifetime Value analysis task, we need a dataset based on customers’ relationships with the business. I found an ideal dataset for this task. You can download the dataset from [here](https://github.com/heyamay/Customer-Lifetime-Value-Analysis/blob/main/customer_acquisition_data.csv)
 
 ## Few glimpses of EDA:
 ### 1. Distribution of Acquisition Cost:
